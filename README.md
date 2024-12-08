@@ -38,20 +38,30 @@ This is a template for a modern React SPA web app.
 
 1. Clone the repository:
 
-**`**bash git clone **`**
+```bash
+git clone
+```
 
 2. Install dependencies:
 
-**`**bash bun i **`**
+```bash
+bun i
+```
 
 or
 
-**`**bash npm i **`**
+```bash
+npm i
+```
 
 3. Start the development server:
 
-**`**bash bun dev **`**
+```bash
+bun dev
+```
 
 or
 
-**`**bash npm run dev **`**
+```bash
+npm run dev
+```
